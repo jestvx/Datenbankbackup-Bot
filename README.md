@@ -94,6 +94,6 @@ Dieser Bot erfordert einen gültigen Lizenzschlüssel. Ohne diesen funktioniert 
 ## 📬 Support
 
 Fragen, Hilfe oder Lizenzanfragen?  
-➡️ Erstelle ein Ticket auf unserem [Support-Discord](https://discord.gg/DEININVITE)
+➡️ Erstelle ein Ticket auf unserem [Support-Discord](https://discord.gg/reconservice)
 
 ---
